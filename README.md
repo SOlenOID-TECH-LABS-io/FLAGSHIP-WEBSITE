@@ -1,2 +1,2 @@
 # FLAGSHIP-WEBSITE
-![FLAGSHIP-WEBSITE Logo](/logo2.png)
+![FLAGSHIP-WEBSITE Logo](/logo3.png)
